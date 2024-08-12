@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g1OTl0empubXNxczNkYXVpc3E4N2wwZGpnZjNiYmdjcnB4eWVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6MWahPArixa6I/giphy.webp"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/f855d8953441a3451555c5ca3e59175baeecf215cd0ac18dd17f15adc1cd26b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966"  />
 
 ###
 
@@ -43,11 +43,6 @@
 </div>
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
-
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
