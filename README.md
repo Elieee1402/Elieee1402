@@ -45,4 +45,14 @@
   </a>
 </div>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+
+- 🎓 I am a **student**.
+- 💻 Major is **Computer Science and Technology**.
+- 🌱 I'm currently learning **Web development and Python**. 
+- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
+- 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**
+- 💬 If you have any questions, **just ask me**.
+- btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
+
 ###
