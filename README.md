@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&multiline=true&width=600&height=150&lines=Hello :D%2C+I'm+Elie+%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F%E2%9C%8C%EF%B8%8F;I'm+a+student+)](https://git.io/typing-svg)
+
+![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
+
 <h2 align="left">Hello! My name is Eliezer Alarcon and I'm a ..., from ...</h2>
 
 ###
