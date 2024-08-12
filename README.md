@@ -1,8 +1,6 @@
-<h2 align="left">Hello! My name is Eliezer Alarcon</h2>
+<h2 align="left">Hello! My name is Eliezer Alarcon and I'm a ..., from ...</h2>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="140" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2g1OTl0empubXNxczNkYXVpc3E4N2wwZGpnZjNiYmdjcnB4eWVtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6MWahPArixa6I/giphy.webp"  />
 
@@ -26,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://telegram.me/elieee1402" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
@@ -43,6 +41,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
