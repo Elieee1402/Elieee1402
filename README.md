@@ -50,7 +50,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 I am a **student** in URBE University.
+- 🎓 I'm a **student** in URBE University.
 - 💻 Computer Science and Engineering.
 - 📝 I'm currently learning to develop mobile applications and English.
 - 🤔 My hobbies are **read books 📚 and play games🎮**.
