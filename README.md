@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5000&line=true&width=300&height=50&lines=Hello!+I'm+Elié)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5000&line=true&width=200&height=50&lines=Hello!+I'm+Elié)](https://git.io/typing-svg)
 
 ###
 
