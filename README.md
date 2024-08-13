@@ -51,6 +51,6 @@
 - 🎓 I'm a **student** in URBE.
 - 💻 Computer Engineering.
 - 📝 I am currently learning English and how to develop games in unreal engine.
-- 🤔 My hobbies are **reading books📚, taking photos of landscapes📷 and playing🎮**.
+- 🔰 My hobbies are **reading books📚, helping people🤝, taking landscape photographs📷 and playing games🎮**.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
