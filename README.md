@@ -24,7 +24,7 @@ Languages ​​and tools I currently know...
   <img width="12" />  
   </a>
 
-Contact me<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+Contact me ;)<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <div align="left">
