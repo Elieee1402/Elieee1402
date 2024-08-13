@@ -1,10 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5000&line=true&width=300&height=50&lines=Hello!%2C+I'm+Elié)](https://git.io/typing-svg)
-
-###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -55,7 +51,8 @@
 - 🎓 I'm a **student** in URBE.
 - 💻 Computer Science and Engineering.
 - 📝 I'm currently learning english and how to develop mobile applications.
-- 🤔 My hobbies are **read books 📚 and play games🎮**.
+- 🤔 My hobbies are **reading books📚, taking photos of landscapes📷 and playing🎮**.
+
 
 ###
 
