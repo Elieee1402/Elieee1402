@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=5000&line=true&width=600&height=150&lines=Hello!%2C+I'm+Elié)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=5000&line=true&width=500&height=100&lines=Hello!%2C+I'm+Elié)](https://git.io/typing-svg)
 
 ###
 
