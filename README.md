@@ -5,7 +5,9 @@
 
 <img align="center" height="150" src="https://camo.githubusercontent.com/f855d8953441a3451555c5ca3e59175baeecf215cd0ac18dd17f15adc1cd26b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966"  />
 
-Languages ​​and tools I currently know...
+Languages ​​and tools I currently know...<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
@@ -24,8 +26,7 @@ Languages ​​and tools I currently know...
   <img width="12" />  
   </a>
 
-Contact me ;)<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
+Contact me ;)
 
 <div align="left">
   <a href="https://telegram.me/elieee1402" target="_blank">
