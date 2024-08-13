@@ -49,7 +49,7 @@ Contact me ;)
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 I'm a **student** in [URBE](https://www.urbe.edu/ <br>
+- 🎓 I'm a **student** in [URBE](https://www.urbe.edu/) <br>
 - 💻 Computer Engineering.
 - 📝 I am currently learning English and how to develop games in unreal engine.
 - 🔰 My hobbies are **reading books📚, taking  photographs📷 and playing games🎮**.
