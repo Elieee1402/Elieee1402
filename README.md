@@ -29,7 +29,7 @@ Languages ​​and tools I currently know...
   <img width="12" />  
   </a>
 
-###
+Contact me ;)
 
 <div align="left">
   <a href="https://telegram.me/elieee1402" target="_blank">
