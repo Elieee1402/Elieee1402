@@ -8,10 +8,7 @@
 
 <img align="right" height="100" src="https://camo.githubusercontent.com/f855d8953441a3451555c5ca3e59175baeecf215cd0ac18dd17f15adc1cd26b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966"  />
 
-- 🎓 I'm a **student** in URBE.
-- 💻 Computer Engineering.
-- 📝 I am currently learning English and how to develop games in unreal engine.
-- 🔰 My hobbies are **reading books📚, taking  photographs📷 and playing games🎮**.
+- Lenguajes and tools i know actually...
 
 
 <div align="left">
