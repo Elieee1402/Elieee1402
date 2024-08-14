@@ -8,7 +8,6 @@
 Languages ​​and tools I currently know...<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
 </p>
 
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="12" />
