@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=300&font=Matemasie&duration=6000&pause=1500&color=F7F7F7&width=500&lines=Hello!+I'm+Eli%C3%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=300&font=Matemasie&duration=6000&pause=1500&color=F7F7F7&width=100&lines=Hello!+I'm+Eli%C3%A9)](https://git.io/typing-svg)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
