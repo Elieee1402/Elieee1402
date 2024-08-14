@@ -5,7 +5,7 @@
 
 <img align="center" height="150" src="https://camo.githubusercontent.com/f855d8953441a3451555c5ca3e59175baeecf215cd0ac18dd17f15adc1cd26b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f62634b6d49576b554d436a566d2f67697068792e676966"  />
 
-Languages ​​and tools I currently know...<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
+Languages ​​and tools i currently know<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
 </p>
 
 <div align="left">
