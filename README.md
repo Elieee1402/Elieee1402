@@ -8,8 +8,11 @@ Languages ​​and tools i currently know
    <a href="https://www.cplusplus.com/#:~:text=cplusplus.com%20%2D%20The%20C%2B%2B%20Resources%20Network&text=General%20information%20about%20the%20C%2B%2B,Description%20of%20the%20C%2B%2B%20language" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="100" height="100" /> </a>
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="c"/> </a>
-   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="c"/> </a>
+
+
+
+   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" alt="c"/> </a>
+   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width=25" alt="c"/> </a>
    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"
     rel="noreferrer"> <img
       src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="css3"
