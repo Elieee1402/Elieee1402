@@ -5,14 +5,6 @@
 Languages ​​and tools i currently know<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
 </p>
 
-
-
-<img="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png"
-
-
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
