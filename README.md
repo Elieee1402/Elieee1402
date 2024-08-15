@@ -47,5 +47,4 @@ Talking about Personal Stuffs<img src="https://media.giphy.com/media/VgCDAzcKvsR
 
 - 🎓 I'm a **student** in [URBE](https://www.urbe.edu/) 8/12 trim.
 - 💻 Computer Engineering.
-- 📝 I am currently learning English and how to develop games in unreal engine.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 📝 I am currently learning English and how to develop games in unreal engine. <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
