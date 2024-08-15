@@ -7,9 +7,6 @@ Languages ​​and tools i currently know <img src="https://media.giphy.com/med
 </p>
 <div align="left">
 
-
-
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="25" alt="c"/> </a>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
