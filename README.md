@@ -6,7 +6,7 @@ Languages ​​and tools i currently know<img src="https://media.giphy.com/medi
 </p>
 
 
-<img src="https://epicgames.ent.box.com/s/c2m8idcyejqvg5mjf4e2q73b7jbaghft/file/1537337406865"height="25" alt="python logo"  />
+<img src="https://epicgames.ent.box.com/s/c2m8idcyejqvg5mjf4e2q73b7jbaghft/file/1537337406865.svg"height="25" alt="python logo"  />
   <img width="12" />
 
 
