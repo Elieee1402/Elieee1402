@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=5000&color=yourRGBColorCode&line=true&width=300&height=50&lines=Hello!+I'm+Elié)](https://git.io/typing-svg)
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 
