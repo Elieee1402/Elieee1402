@@ -5,15 +5,6 @@
 Languages ​​and tools i currently know<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
 </p>
 
-
-
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="12" />
