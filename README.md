@@ -5,11 +5,6 @@
 
 Languages ​​and tools i currently know
 
-
-<p >
-<a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://media.giphy.com/media/klcm8qtSNNcmJZxk9B/giphy.gif"
-      alt="c" width="100" height="100" /> </a> 
    <a href="https://www.cplusplus.com/#:~:text=cplusplus.com%20%2D%20The%20C%2B%2B%20Resources%20Network&text=General%20information%20about%20the%20C%2B%2B,Description%20of%20the%20C%2B%2B%20language" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="100" height="100" /> </a>
