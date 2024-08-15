@@ -8,7 +8,7 @@ Languages ​​and tools i currently know
 
 
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="c"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="25" alt="c"/> </a>
 
 
 
