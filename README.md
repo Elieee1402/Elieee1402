@@ -41,7 +41,7 @@ Contact me ;)
   </a>
 
 
-Talking about Personal Stuffs<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 - 🎓 I'm a **student** in [URBE](https://www.urbe.edu/) 8/12 trim.
 - 💻 Computer Engineering.
