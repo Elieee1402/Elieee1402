@@ -3,7 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=5000&color=yourRGBColorCode&line=true&width=300&height=50&lines=Hello!+I'm+Elié)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Languages ​​and tools i currently know<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
+Languages ​​and tools i currently know
+
+
+
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" alt="c"/> </a>
+   <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" alt="c"/> </a>
+
+
+
+
+
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
 </p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
