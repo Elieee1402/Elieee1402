@@ -21,7 +21,7 @@ Languages ​​and tools i currently know <img src="https://media.giphy.com/med
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" height="25" alt="unrealengine logo" />
   <img width="12" />  
-  </a>
+  </a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="left">
   <a href="https://telegram.me/elieee1402" target="_blank">
