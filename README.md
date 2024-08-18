@@ -23,7 +23,6 @@ Languages ​​and tools i currently know <img src="https://media.giphy.com/med
   <img width="12" />  
   </a>
 
-Contact me ;)
 <div align="left">
   <a href="https://telegram.me/elieee1402" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
