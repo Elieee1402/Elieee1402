@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=5000&color=ff8000&line=true&width=300&height=50&lines=Hello!+I+Am+Elié)](https://git.io/typing-svg)
 <img align="right" height="225" src="https://media1.tenor.com/m/0_mp4RvAcXgAAAAC/hello-fox.gif"  />
 
-<div align=center>
+<div align=left>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=700&color=ff8000&center=true&vCenter=true&width=500&lines=🎓+I'm+A+Student+In+URBE+8/12+Trim;💻+I+Study+Computer+Engineering" alt="Typing SVG" /></a>
   </div>
   </div>
