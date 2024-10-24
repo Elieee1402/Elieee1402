@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=31&pause=500&color=FF8000&center=true&width=435&lines=Hello!+I+am+Eli%C3%A9;%F0%9F%8E%93I'm+a+student+in+URBE+(8%2F12);%F0%9F%92%BBI+study+computer+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=31&pause=500&color=FF8000&multiline=true&width=435&lines=Helloo!+I+am+Eli%C3%A9;%F0%9F%8E%93I'm+a+student+in+URBE;%F0%9F%92%BBComputer+engineering)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="right" height="250" src="https://media1.tenor.com/m/0_mp4RvAcXgAAAAC/hello-fox.gif"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
