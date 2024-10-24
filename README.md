@@ -19,4 +19,5 @@
   <a href="https://www.instagram.com/elieee1402/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />   
   </a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sc3uedx7kwr4whoqjj2ejj7gte&count=1)
