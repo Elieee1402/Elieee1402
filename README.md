@@ -3,25 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=5000&color=yourRGBColorCode&line=true&width=300&height=50&lines=Hello!+I'm+Elié)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Languages ​​and tools i currently know <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="40" />
-</p>
-<div align="left">
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="25" alt="c" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="25" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" height="25" alt="unrealengine logo" />
-  <img width="12" />  
-  </a> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-About me...<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
-<div align="left">
 
 - 🎓 I'm a **student** in [URBE](https://www.urbe.edu/) 8/12 trim.
 - 💻 Computer Engineering.
