@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=5000&color=yourRGBColorCode&line=true&width=300&height=50&lines=Hello!+I'm+Elié)](https://git.io/typing-svg)
-<img align="right" height="200" src="https://media1.tenor.com/m/0_mp4RvAcXgAAAAC/hello-fox.gif"  />
+<img align="right" height="225" src="https://media1.tenor.com/m/0_mp4RvAcXgAAAAC/hello-fox.gif"  />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
