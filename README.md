@@ -1,9 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=10000&color=ff8000&line=true&width=300&height=50&lines=Hello!+I+Am+Elié)](https://git.io/typing-svg)
-<img align="right" height="225" src="https://media1.tenor.com/m/0_mp4RvAcXgAAAAC/hello-fox.gif"  />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&size=30&duration=2000&color=ff8000&line=true&width=300&height=50&lines=🎓I'm+a+studend+in+URBE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Matemasie&pause=400&color=FF8000&width=435&separator=%3C&lines=Hello!+I+am+Eli%C3%A9+;)%3C%F0%9F%8E%93I'm+a+student+in+URBE+(8%2F12+Trim)%3C%F0%9F%92%BBI+study+computer+engineering)](https://git.io/typing-svg)
   </div>
 <div align="center">
   <a href="mailto:eiad14022005@gmail.com" target="_blank">
