@@ -10,6 +10,7 @@
 <div align="left">
   <a href="https://telegram.me/elieee1402" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="55" height="40" alt="telegram logo"  />
+    
   </a>
   <a href="https://www.instagram.com/elieee1402/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
