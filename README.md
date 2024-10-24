@@ -6,7 +6,6 @@
 
 - 🎓 I'm a **student** in [URBE](https://www.urbe.edu/) 8/12 trim.
 - 💻 Computer Engineering.
-- 📝 I am currently learning English and how to develop games in unreal engine
  <a href="https://telegram.me/elieee1402" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
