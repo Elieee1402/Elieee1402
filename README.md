@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8000&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Eli%C3%A9zer+Alarc%C3%B3n;Me+pueden+decir+Eli%C3%A9+%E2%9C%A8;Estudiante+de+Ingenier%C3%ADa+en+la+URBE;Desarrollo+con+IA+%26+Automatizaci%C3%B3n;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF8000&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Eli%C3%A9zer+Alarc%C3%B3n;Me+pueden+decir+Eli%C3%A9+%E2%9C%A8;Estudiante+de+Inform%C3%A1tica+%40+URBE;Desarrollo+con+IA+%26+Automatizaci%C3%B3n;Apasionado+por+la+Tecnolog%C3%ADa" alt="Typing SVG" />
   </a>
 
   <p>
@@ -20,13 +20,14 @@
 <img align="right" height="190" src="https://media1.tenor.com/m/0_mp4RvAcXgAAAAC/hello-fox.gif"/>
 
 ¡Hola! Mi nombre es **Eliézer Alarcón** (también me conocen como **Elié**).  
-Soy estudiante del **9.º trimestre de Ingeniería en Informática** en la **Universidad Privada Rafael Belloso Chacín (URBE)** en Maracaibo, Venezuela.
+Soy estudiante activo de **Ingeniería en Informática** en la **Universidad Privada Rafael Belloso Chacín (URBE)** en Maracaibo, Venezuela.
 
-Estoy enfocado en el **desarrollo de soluciones basadas en Inteligencia Artificial y automatización de procesos**. También me gusta mucho todo lo relacionado con el **soporte técnico, diagnóstico de hardware/software, redes y sistemas**.
+Me enfoco principalmente en el **desarrollo de software, automatización de procesos e Inteligencia Artificial**. Además, disfruto y me gusta mucho todo lo relacionado con el **soporte técnico, diagnóstico de hardware/software, administración de sistemas y redes**.
 
-* 🤖 Desarrollador de agentes inteligentes y flujos multimodales en **Telegram y WhatsApp**.
-* ⚡ Creación de herramientas de extracción y clasificación con **OCR y APIs de LLMs**.
-* 💻 Apasionado por el soporte técnico, la optimización de sistemas operativos y redes.
+* 🤖 Creación de agentes de IA y flujos multimodales en **Telegram y WhatsApp**.
+* ⚡ Herramientas inteligentes de clasificación y extracción de datos mediante **OCR y LLMs**.
+* 💻 Entusiasta del soporte técnico, la optimización de sistemas operativos y hardware.
+* 🎓 Formación complementaria: **Google** (Artificial Intelligence / IT Support), **Anthropic** y **Oracle Next Education**.
 
 ---
 
@@ -48,8 +49,8 @@ Estoy enfocado en el **desarrollo de soluciones basadas en Inteligencia Artifici
 ### 🚀 Soluciones & Desarrollos con IA
 
 * 📑 **Procesador Documental Inteligente:** Sistema automatizado con IA para auditar registros fotográficos, extraer metadatos críticos e inyectar información estructurada en bases de datos.
-* 🤖 **Agente Multimodal de Telegram:** Auditoría de evidencias técnicas en tiempo real, consulta de expedientes y generación instantánea de informes PDF.
-* 💬 **Bot Inteligente para WhatsApp:** Integración con procesamiento de notas de voz, lectura OCR de documentos/facturas y generación de reportes estructurados.
+* 🤖 **Agente Multimodal de Telegram:** Auditoría de evidencias técnicas en tiempo real, consulta de expedientes y generación automática de reportes en PDF.
+* 💬 **Bot Inteligente para WhatsApp:** Asistente con procesamiento de notas de voz, lectura OCR de documentos/facturas y generación de reportes estructurados.
 
 ---
 
