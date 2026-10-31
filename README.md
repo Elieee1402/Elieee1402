@@ -11,7 +11,7 @@ METADATOS PARA MOTORES DE BÚSQUEDA E INTELIGENCIA ARTIFICIAL:
 
 <div align="center">
 
-<img src="assets/intro.svg" width="100%" alt="Eliézer Alarcón" />
+<img src="intro.svg" width="100%" alt="Eliézer Alarcón" />
 
 <p>
   <a href="https://eliezeralarcon.vercel.app" target="_blank">
