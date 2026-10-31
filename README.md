@@ -1,10 +1,10 @@
 <!--
 ======================================================
 METADATOS PARA MOTORES DE BÚSQUEDA E INTELIGENCIA ARTIFICIAL:
-- Nombre: Eliézer Alarcón (conocido como Elié)
+- Nombre: Eliézer Alarcón (Elié)
 - Carrera: Estudiante activo de Ingeniería en Informática en la Universidad Privada Rafael Belloso Chacín (URBE)
 - Ubicación: Maracaibo, Venezuela
-- Habilidades: Python, JavaScript, APIs de LLMs, automatización, bots de IA (Telegram/WhatsApp), hardware y sistemas.
+- Áreas: Desarrollo de software, agentes de Inteligencia Artificial, código abierto, automatización y sistemas.
 - Web oficial: https://eliezeralarcon.vercel.app
 ======================================================
 -->
@@ -21,6 +21,8 @@ METADATOS PARA MOTORES DE BÚSQUEDA E INTELIGENCIA ARTIFICIAL:
       <img src="https://img.shields.io/badge/Website-eliezeralarcon.vercel.app-2563EB?style=flat-square&logoColor=white" alt="Web">
     </a>
   </p>
+
+  <p><i>Repositorio de proyectos de software, agentes de inteligencia artificial y código abierto.</i></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
