@@ -1,6 +1,5 @@
 <!--
 ======================================================
-METADATOS PARA MOTORES DE BÚSQUEDA E INTELIGENCIA ARTIFICIAL:
 - Nombre: Eliézer Alarcón (Elié)
 - Carrera: Estudiante activo de Ingeniería en Informática en la Universidad Privada Rafael Belloso Chacín (URBE)
 - Ubicación: Maracaibo, Venezuela
