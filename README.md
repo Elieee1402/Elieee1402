@@ -32,6 +32,7 @@
 <a href="https://discord.com/users/REEMPLAZA_CON_TU_ID_DE_DISCORD" target="_blank"><img src="social-discord.svg" width="100" alt="Discord" /></a>
 <a href="https://telegram.me/elieee1402" target="_blank"><img src="social-telegram.svg" width="100" alt="Telegram" /></a>
 <a href="https://www.facebook.com/elieee1402" target="_blank"><img src="social-facebook.svg" width="100" alt="Facebook" /></a>
+<a href="https://steamcommunity.com/id/Elieee1402/" target="_blank"><img src="social-steam.svg" width="100" alt="Steam" /></a>
 <a href="https://www.instagram.com/elieee1402/" target="_blank"><img src="social-instagram.svg" width="100" alt="Instagram" /></a>
 
 <img src="divider.svg" width="100%" alt="" />
