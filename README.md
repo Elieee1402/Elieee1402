@@ -31,11 +31,11 @@
 
 <img src="orbs.svg" width="100%" alt="" />
 
-<a href="mailto:eiad14022005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="38" /></a>
-<a href="https://discord.com/users/elie1402" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="38" /></a>
-<a href="https://telegram.me/elieee1402" target="_blank"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="38" /></a>
-<a href="https://www.facebook.com/elieee1402" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="38" /></a>
-<a href="https://www.instagram.com/elieee1402/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="38" /></a>
+<a href="mailto:eiad14022005@gmail.com" target="_blank"><img src="social-gmail.svg" width="100" alt="Gmail" /></a>
+<a href="https://discord.com/users/elie1402" target="_blank"><img src="social-discord.svg" width="100" alt="Discord" /></a>
+<a href="https://telegram.me/elieee1402" target="_blank"><img src="social-telegram.svg" width="100" alt="Telegram" /></a>
+<a href="https://www.facebook.com/elieee1402" target="_blank"><img src="social-facebook.svg" width="100" alt="Facebook" /></a>
+<a href="https://www.instagram.com/elieee1402/" target="_blank"><img src="social-instagram.svg" width="100" alt="Instagram" /></a>
 
 <img src="divider.svg" width="100%" alt="" />
 
