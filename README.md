@@ -20,19 +20,16 @@
 
 <img src="divider.svg" width="100%" alt="" />
 
-<a href="https://eliezeralarcon.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio-eliezeralarcon.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-</a>
+<a href="https://eliezeralarcon.vercel.app" target="_blank"><img src="badge-portfolio.svg" alt="Portafolio" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/Maracaibo-Venezuela-FF8000?style=for-the-badge" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/URBE-Ing.%20Inform%C3%A1tica-0F172A?style=for-the-badge" alt="URBE" />
-</p>
+<img src="badge-location.svg" alt="Maracaibo, Venezuela" />
+<img src="badge-urbe.svg" alt="URBE · Ing. Informática" />
 
 <img src="orbs.svg" width="100%" alt="" />
 
-<a href="mailto:eiad14022005@gmail.com" target="_blank"><img src="social-gmail.svg" width="100" alt="Gmail" /></a>
-<a href="https://discord.com/users/elie1402" target="_blank"><img src="social-discord.svg" width="100" alt="Discord" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=eiad14022005@gmail.com" target="_blank"><img src="social-gmail.svg" width="100" alt="Gmail" /></a>
+<a href="https://wa.me/584243248300" target="_blank"><img src="social-whatsapp.svg" width="100" alt="WhatsApp" /></a>
+<a href="https://discord.com/users/REEMPLAZA_CON_TU_ID_DE_DISCORD" target="_blank"><img src="social-discord.svg" width="100" alt="Discord" /></a>
 <a href="https://telegram.me/elieee1402" target="_blank"><img src="social-telegram.svg" width="100" alt="Telegram" /></a>
 <a href="https://www.facebook.com/elieee1402" target="_blank"><img src="social-facebook.svg" width="100" alt="Facebook" /></a>
 <a href="https://www.instagram.com/elieee1402/" target="_blank"><img src="social-instagram.svg" width="100" alt="Instagram" /></a>
